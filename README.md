@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a computer scientist that recently graduated from Freie Universität Berlin. 
+I am a computer scientist that recently graduated from Freie Universität Berlin (FUB). 
 As you will see shortly, I have vast experience in many fields and an unquenchable thirst for new knowledge.
 
 - ✍️ Sometimes I write about my ideas and things I learned [on Medium](https://medium.com/@r.harvey)
@@ -34,9 +34,9 @@ I am currently working on a novel approach to OCR to make it more robust to line
 
 Robotics is actually how I first started "coding" at the age of nine. At that time, the tasks were simple: avoiding abstacles, following a line or navigating a maze. Nowadays, I am interested in working on the real stuff. Accordingly, I have signed up for [FaSTTUBe](https://fasttube.de/) at TU Berlin where I will work on building autonomous racing cars. I am mostly interested in the observation and merging of past and present data from various sources into a single, constantly updating but still stable, model of the surrounding world, the high-level long-term decision-making using this world model, and how to actuate these strategic plans in short-term actions. 
 
-- As an intern at Dronesperhour, I had the opportunity to develop new drones where I extensively programmed a Raspberry Pi.
-- I took "Introduction to IoT" at the University of Helsinki where I learned the most important concepts from the exciting, but also slightly terrifying, Internet of Things
-- In the course "Operating Systems" I went through the excrutiating pain of building [my own operating system in Rust](https://github.com/theRealProHacker/rust-os), even though all course material was in C.
+- As an intern at Dronesperhour, I had the opportunity to develop new drones. There, I extensively programmed on a Raspberry Pi.
+- I took "Introduction to IoT" at the University of Helsinki where I learned the most important concepts from the exciting Internet of Things
+- In the course "Operating Systems" I went through the pain of building [my own operating system in Rust](https://github.com/theRealProHacker/rust-os).
 
 ### Parsers
 
@@ -48,8 +48,8 @@ Robotics is actually how I first started "coding" at the age of nine. At that ti
 ### Games
 
 I started learning game programming with the CS50 game development course on edx using Lua. 
-I quickly started making my first own games with Löve2D (Lua) and pygame (Python).
-More recently, I have worked with more complete engines like Unity, Unreal Engine and Godot.
+Then, I quickly made my first own games with Löve2D (Lua) and pygame (Python).
+More recently, I have worked with engines like Unity, Unreal Engine and Godot.
 
 #### My games
 - [Mastermind](https://github.com/theRealProHacker/MasterMind)
@@ -67,15 +67,13 @@ More recently, I have worked with more complete engines like Unity, Unreal Engin
 
 ### Web, UI/UX, Data Viz
 
-- I am very comfortable with Bootstrap + VanillaJS, which works very well for relatively simply UIs.  
+- I am very comfortable with Bootstrap + VanillaJS, which works well for relatively simply UIs.  
   However, one needs to be prepared to change the default styles, else the page will have this very recognizable, almost boring, Bootstrap look
 - I want to try out HTMX soon
 - I have also developed using React, three.js/r3f/drei, Next.js, Astro and PHP/Wordpress
-
 - I took an amazing class on data visualization by [Professor Claudia Müller-Birn](https://github.com/clmb)
 
   ![image](https://github.com/user-attachments/assets/8f3d157e-f75c-43bd-838c-1f4b69c21660)
-
 - I developed a 3D React app to preview drone missions at [Dronesperhour](https://github.com/Dronesperhour)
 - Built a [Sierpiński triangle animation](https://sierpinski.glitch.me/)
 - Built [a beautiful front-end](https://transliteration.eu.pythonanywhere.com/) for my bachelor thesis
@@ -90,8 +88,7 @@ I have built many other UIs with Electron, Tauri and Flutter. Some of them
 
 ### Quantum Computing
 
-- I completed "Quantum Mechanics Ia/b" at the University of Helsinki with excellent grades
-- I also took "Quantum Computing". The final highlight was running my own quantum algorithm live on IBM quantum computers.
+- I completed "Quantum Mechanics Ia/b" and "Quantum Computing". The final highlight was running my own quantum algorithm live on IBM quantum computers.
 - Currently, I am doing "Advanced Quantum Mechanics" and "Quantum Crypto Analysis" @ FUB
 - See me soon at [Leap in Berlin](https://leap.berlin/en)
 
