@@ -10,7 +10,9 @@ As you will see shortly, I have vast experience in many fields and an unquenchab
 
 I always enjoy people stargazing, trying out or collaborating on my projects
 
-## What I do
+<details>
+
+<summary>What I do</summary>
 
 ### NLP
 
@@ -106,3 +108,4 @@ In the future, I would like to see quantum computing becoming a real alternative
 - PHP
 
 Excited for Go, Swift, Kotlin and Scala 3
+</details>
