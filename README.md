@@ -34,7 +34,7 @@ I am currently working on a novel approach to **OCR** to make it more robust to 
 
 ### Robotics, IoT and Systems Programming
 
-Robotics is actually how I first started "coding" at the age of nine. At that time, the tasks were simple: avoiding abstacles, following a line or navigating a maze. Nowadays, I am interested in working on **the real stuff**. 
+Robotics is actually how I first started "coding" at the age of nine. At that time, the tasks were simple: avoiding obstacles, following a line or navigating a maze. Nowadays, I am interested in working on **the real stuff**. 
 
 - At [FaSTTUBe](https://fasttube.de/) at TU Berlin I am working on building autonomous racing cars. I am mostly interested in the observation and merging of past and present data from various sources into a single, constantly updating but still stable, model of the surrounding world, the high-level long-term decision-making using this world model, and how to actuate these strategic plans in short-term actions. 
 - As an intern at [Dronesperhour](https://dronesperhour.com/), I had the opportunity to develop new drones. There, I extensively programmed on a **Raspberry Pi**.
