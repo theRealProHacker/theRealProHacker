@@ -44,7 +44,7 @@ Robotics is actually how I first started "coding" at the age of nine. At that ti
 ### Parsers
 
 - Built a [lambda expression parser and evaluator in Python and Haskell](https://github.com/theRealProHacker/lambda) (try it [here](https://therealprohacker.github.io/lambda/))
-- Built a [simple math evaluator in Python](https://github.com/theRealProHacker/MathEvaluator) as well, wrote about it [on Medium](https://medium.com/@r.harvey/how-i-made-a-math-evaluator-on-24-lines-65afe8e560fd) and published it [on PyPi](https://pypi.org/project/math-evaluator/)
+- Built a [simple math evaluator in Python](https://github.com/theRealProHacker/MathEvaluator) as well, wrote about it [on Medium](https://medium.com/@r.harvey/how-i-made-a-math-evaluator-on-24-lines-65afe8e560fd) and published it [on PyPi](https://pypi.org/project/math-evaluator/) ![PyPI - Downloads](https://img.shields.io/pypi/dm/math-evaluator)
 - Built a **CSS parser** on top of [cssutils](https://pypi.org/project/cssutils/) for [Positron](https://github.com/theRealProHacker/Positron)
 - Many other DSLs
 
@@ -64,8 +64,8 @@ More recently, I have worked with engines like **Unity, Unreal Engine and Godot*
 - pygame
   
   ![image](https://github.com/user-attachments/assets/ea03dec5-97eb-4b8b-82bf-ea3943341519)
-- [PyGameRecorder](https://github.com/theRealProHacker/PyGameRecorder) published on [PyPi](https://pypi.org/project/pygame-screen-record/)
-- [StateManager](https://github.com/theRealProHacker/StateManager) also published on [PyPi](https://pypi.org/project/pgsm/)
+- [PyGameRecorder](https://github.com/theRealProHacker/PyGameRecorder) published on [PyPi](https://pypi.org/project/pygame-screen-record/) ![PyPI - Downloads](https://img.shields.io/pypi/dm/pygame-screen-record)
+- [StateManager](https://github.com/theRealProHacker/StateManager) also published on [PyPi](https://pypi.org/project/pgsm/) ![PyPI - Downloads](https://img.shields.io/pypi/dm/pgsm)
 - [LevelEditor](https://github.com/theRealProHacker/LevelEditor)
 
 ### Web, UI/UX, Data Viz
