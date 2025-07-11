@@ -1,4 +1,4 @@
-*Note: I am currently not committing a lot on GitHub, but on private GitLab (git.imp.fu-berlin.de) and Gitea (git.fasttube.de) instances instead.*
+*Note: I am currently not committing a lot on GitHub, but on private GitLab ([git.imp.fu-berlin.de](git.imp.fu-berlin.de)) and Gitea ([git.fasttube.de](git.fasttube.de)) instances instead.*
 
 ## Hi there 👋
 
