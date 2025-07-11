@@ -74,6 +74,7 @@ More recently, I have worked with engines like **Unity, Unreal Engine and Godot*
   However, one needs to be prepared to change the default styles, else the page will have this very recognizable, almost boring, Bootstrap look
 - I want to try out HTMX soon
 - I have also developed using **React, three.js/r3f/drei, Next.js, Astro and PHP/Wordpress**
+- Now however, I mostly use SvelteKit with Supabase, tailwind, shadcn and lucide-icons 
 - I took an amazing class on **data visualization** by [Professor Claudia Müller-Birn](https://github.com/clmb)
 
   ![image](https://github.com/user-attachments/assets/8f3d157e-f75c-43bd-838c-1f4b69c21660)
@@ -91,8 +92,7 @@ I have built many other UIs with **Electron, Tauri and Flutter**. Some of them
 
 ### Quantum Computing
 
-- I completed "Quantum Mechanics Ia/b" and "Quantum Computing". The final highlight was **running my own quantum algorithm live on IBM quantum computers**.
-- Currently, I am doing "Advanced Quantum Mechanics" and "Quantum Crypto Analysis" @ FUB
+- I completed "Quantum Mechanics Ia/b" @ Helsinki, "Advanced Quantum Mechanics" @ FUB, "Quantum Computing" @ Helsinki and "Quantum Crypto Analysis" @ FUB. The final highlight was **running my own quantum algorithm live on IBM quantum computers**.
 - See me soon at [Leap in Berlin](https://leap.berlin/en)
 
 In the future, I would like to see quantum computing becoming a real alternative to traditional digital computing in certain fields like hyperrealistic simulations and cryptography, similar to the advent of the GPU. (I am also interested in the rediscovery of analog computing for AI)
