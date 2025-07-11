@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I am a computer scientist that recently graduated from Freie Universität Berlin (FUB). 
+I am a computer scientist studying in my first year Master's at Freie Universität Berlin (FUB). I also spent two semesters at the University of Helsinki. 
 As you will see shortly, I have vast experience in many fields and an unquenchable thirst for new knowledge.
 
 - ✍️ Sometimes I write about my ideas and things I learned [on Medium](https://medium.com/@r.harvey)
