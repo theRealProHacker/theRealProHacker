@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am a computer scientist studying in my first year Master's at Freie Universität Berlin (FUB). I also spent two semesters at the University of Helsinki. 
-As you will see shortly, I have vast experience in many fields and an unquenchable thirst for new knowledge.
+I am a computer scientist studying in my second year Master's at Freie Universität Berlin (FUB). I also spent two semesters at the University of Helsinki. 
+As you will see shortly, I have an unquenchable thirst for new knowledge.
 
 - ✍️ Sometimes I write about my ideas and things I learned [on Medium](https://medium.com/@r.harvey)
-- 📸 I love **photography**. I will release my personal website soon where I will display some of my best work.
+- 📸 I love **photography**. I will release my personal website, ~soon~ at some point, where I will display some of my best work.
 - ♟️ I am an enthusiastic **chess player** with a FIDE Elo > 1800
 - ⚽ Sportswise I like football and basketball and anything involving water
 
@@ -61,20 +61,18 @@ More recently, I have worked with engines like **Unity, Unreal Engine and Godot*
 - ... more in the making (I enjoy **strategy, card and tower defense games** as well as **platformers**)
 
 #### Libraries/Open Source Contributions
-- pygame
-  
-  ![image](https://github.com/user-attachments/assets/ea03dec5-97eb-4b8b-82bf-ea3943341519)
+- Contributions: [pygame](https://github.com/pygame/pygame), [html5lib](https://github.com/html5lib/html5lib-python)
 - [PyGameRecorder](https://github.com/theRealProHacker/PyGameRecorder) published on [PyPi](https://pypi.org/project/pygame-screen-record/) ![PyPI - Downloads](https://img.shields.io/pypi/dm/pygame-screen-record)
 - [StateManager](https://github.com/theRealProHacker/StateManager) also published on [PyPi](https://pypi.org/project/pgsm/) ![PyPI - Downloads](https://img.shields.io/pypi/dm/pgsm)
 - [LevelEditor](https://github.com/theRealProHacker/LevelEditor)
 
 ### Web, UI/UX, Data Viz
 
+- At the moment, I mostly build with Svelte/SvelteKit + Supabase + TailwindCSS + shadcn/ui
 - I am very comfortable with **Bootstrap + JS**, which works well for relatively simply UIs.  
   However, one needs to be prepared to change the default styles, else the page will have this very recognizable, almost boring, Bootstrap look
 - I want to try out HTMX soon
 - I have also developed using **React, three.js/r3f/drei, Next.js, Astro and PHP/Wordpress**
-- Now however, I mostly use SvelteKit with Supabase, tailwind, shadcn and lucide-icons 
 - I took an amazing class on **data visualization** by [Professor Claudia Müller-Birn](https://github.com/clmb)
 
   ![image](https://github.com/user-attachments/assets/8f3d157e-f75c-43bd-838c-1f4b69c21660)
@@ -92,8 +90,7 @@ I have built many other UIs with **Electron, Tauri and Flutter**. Some of them
 
 ### Quantum Computing
 
-- I completed "Quantum Mechanics Ia/b" @ Helsinki, "Advanced Quantum Mechanics" @ FUB, "Quantum Computing" @ Helsinki and "Quantum Crypto Analysis" @ FUB. The final highlight was **running my own quantum algorithm live on IBM quantum computers**.
-- See me soon at [Leap in Berlin](https://leap.berlin/en)
+I completed "Quantum Mechanics Ia/b" @ Helsinki, "Advanced Quantum Mechanics" @ FUB, "Quantum Computing" @ Helsinki and "Quantum Crypto Analysis" @ FUB. The final highlight was **running my own quantum algorithm live on IBM quantum computers**.
 
 In the future, I would like to see quantum computing becoming a real alternative to traditional digital computing in certain fields like hyperrealistic simulations and cryptography, similar to the advent of the GPU. (I am also interested in the rediscovery of analog computing for AI)
 
