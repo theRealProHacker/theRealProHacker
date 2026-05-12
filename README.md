@@ -18,7 +18,7 @@ I always enjoy people stargazing, trying out or collaborating on my projects
 
 - My **bachelor thesis aims** to be a contribution to automated transliteration from Arabic to German (aka romanization, conversion, transcription).
   Check out [the result](https://transliteration.eu.pythonanywhere.com/). It's also [open source](https://github.com/theRealProHacker/dmg)
-- Privately, I am working on a **German parser** (I know it's ambitious) and on a **detector for stylistic devices**.
+- ~Privately, I am working on a **German parser** (I know it's ambitious) and on a **detector for stylistic devices**.~ (This has mostly been made obsolete by language models) 
 - I am looking forward to further advances of LLMs and the possibilities that await us.
 
 ### AI in general
@@ -61,7 +61,7 @@ More recently, I have worked with engines like **Unity, Unreal Engine and Godot*
 - ... more in the making (I enjoy **strategy, card and tower defense games** as well as **platformers**)
 
 #### Libraries/Open Source Contributions
-- Contributions: [pygame](https://github.com/pygame/pygame), [html5lib](https://github.com/html5lib/html5lib-python)
+- Contributions: [pygame](https://github.com/pygame/pygame)
 - [PyGameRecorder](https://github.com/theRealProHacker/PyGameRecorder) published on [PyPi](https://pypi.org/project/pygame-screen-record/) ![PyPI - Downloads](https://img.shields.io/pypi/dm/pygame-screen-record)
 - [StateManager](https://github.com/theRealProHacker/StateManager) also published on [PyPi](https://pypi.org/project/pgsm/) ![PyPI - Downloads](https://img.shields.io/pypi/dm/pgsm)
 - [LevelEditor](https://github.com/theRealProHacker/LevelEditor)
@@ -96,12 +96,12 @@ In the future, I would like to see quantum computing becoming a real alternative
 
 ### Programming Languages
 - Python (my [absolute favourite language](https://medium.com/@r.harvey/why-python-is-the-best-programming-language-so-far-5e481804159b))
-- Web (JS/CSS/HTML)
+- Web (TS/CSS/HTML)
 - Rust (my favourite when performance matters)
-- Dart & Flutter
+- Dart
 - Haskell
 - Lua
-- C
+- C/C++
 - Java
 - PHP
 
